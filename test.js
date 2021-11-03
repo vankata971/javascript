@@ -1,1 +1,2 @@
-<script>alert ("Tet");</script>
+alert ("Tet");
+
